@@ -3,7 +3,7 @@
 // entity 0
 {
 "mapversion" "220"
-"wad" "C:\quake-leveldesign-workspace\wads\jf_toolsliquidskymakkon.wad;C:\quake-leveldesign-workspace\wads\lq_dev.wad;C:\quake-leveldesign-workspace\wads\makkonneonlights.wad;C:\Users\luism\Downloads\makkon_industrial\m_industrial_chopped\makkon_industrial_orng1.wad;C:\Users\luism\Downloads\makkon_industrial\m_industrial_chopped\makkon_industrial_grey1.wad;C:\Users\luism\Downloads\makkon_tech\m_tech_chopped\makkon_tech_1.wad;C:\quake-leveldesign-workspace\wads\glass.wad;C:\Users\luism\Downloads\makkon_tech\m_tech_chopped\makkon_tech_blk2y.wad;C:\Users\luism\Downloads\makkon_tech\m_tech_chopped\makkon_tech_blk2.wad;C:\Users\luism\Downloads\makkon_tech\m_tech_chopped\makkon_tech_orng2.wad;C:\Users\luism\Downloads\makkon_concrete\m_c_chopped\makkon_concrete_gry1.wad;C:\Users\luism\Downloads\makkon_concrete\m_c_chopped\makkon_concrete_blk1.wad;C:\Users\luism\Downloads\makkon_industrial\m_industrial_chopped\makkon_industrial_ylw1.wad;C:\Users\luism\Downloads\WORKING_foliage\WORKING_foliage.wad;C:\Users\luism\Downloads\makkon_industrialbuttons_rst4.wad"
+"wad" "C:\quake-leveldesign-workspace\wads\qbj3_chuma.wad"
 "classname" "worldspawn"
 "_tb_mod" "qbj3dev"
 "_tb_def" "external:C:/quake-leveldesign-workspace/ironwail/qbj3dev/qbj3.fgd"
@@ -16,7 +16,7 @@
 "fog" "0.027 11 169 243"
 "_dirt" "1"
 "_tb_soft_map_bounds" "none"
-"_tb_textures" "WORKING_foliage.wad;glass.wad;jf_toolsliquidskymakkon.wad;lq_dev.wad;makkon_concrete_blk1.wad;makkon_concrete_gry1.wad;makkon_industrial_grey1.wad;makkon_industrial_ylw1.wad;makkon_industrialbuttons_rst4.wad;makkon_tech_1.wad;makkon_tech_blk2.wad;makkon_tech_blk2y.wad;makkon_tech_orng2.wad;makkonneonlights.wad"
+"_tb_textures" "WORKING_foliage.wad;glass.wad;jf_toolsliquidskymakkon.wad;lq_dev.wad;makkon_concrete_blk1.wad;makkon_concrete_gry1.wad;makkon_industrial_grey1.wad;makkon_industrial_ylw1.wad;makkon_industrialbuttons_rst4.wad;makkon_tech_1.wad;makkon_tech_blk2.wad;makkon_tech_blk2y.wad;makkon_tech_orng2.wad;makkonneonlights.wad;qbj3_chuma.wad"
 "_bounce" "1"
 "_bouncescale" "0.027"
 // brush 0
