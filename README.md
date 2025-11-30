@@ -1,4 +1,4 @@
-# TITLE (map_title)
+# Aeroforge Grid (qbj3_chuma.bsp)
 Quake map for QBJ3 (custom progs of Copper mod)
 
 
@@ -7,6 +7,7 @@ TO PLAY: Drop the folder in your sourceport of preference... that's it... have f
 ### Author info / Metadata
 
 Map: Aeroforge Grid
+
 Filename: qbj3_chuma.bsp
 
 
