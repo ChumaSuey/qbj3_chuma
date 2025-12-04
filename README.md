@@ -58,6 +58,7 @@ A special tribute mention to my friend Meowgi from the Doom Community for helpin
 - Em3raldTig3r.
 - Phoenyx.
 - NiGHTS108.
+- ilove80srock / J.
 - grapes.
 - NewHouse.
 - Atom1k.
