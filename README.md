@@ -27,6 +27,8 @@ The original map idea was deleted as it was nothing special, but i kept the idea
 
 From the new progs (QBJ3) i used all enemies in the mod, i had more plans of using the Sploder, but the main problem is that i play in Nightmare mostly and i playtest in Nightmare mostly, in this difficulty/skill the enemy is a high risk insta-kill enemy, overall i kept it in some sequences of the map, however there's no sploder in Easy/normal skill. I also stuck in switching skins of the monsters at times, this was one of my favorite features of QBJ3.
 
+A lot of the rework time invested in this map was mostly retextures and some balance work across skills Easy/Normal - Hard/Nightmare, shout out to those who helped playtesting the map! special mention to PuLSaR, and in this map it's the first time i use a compile with extra4, surface_radiosity and emissivequality high, so the "neon lights" surface lights wouldn't look too unnatural, i've learned this thanks to Rabbit who applied it in his SPRAWL map.
+
 
 A final fun fact is that there are a lot of references to the Sunlust Doom wad, even the final part of the level is a recreation of the exit area of Map 31 of Sunlust "Birds of a Feather", i intended to make a song switch to the music used in MAP31 "Windows - Stuart Rynn", as i've made a remaster and was planning to use it but the brutalist jam rules stuck just one song per map, There's a Target_music entity that changes the music of a map during the level within Copper's entities, hope we can use it in the future.
 
